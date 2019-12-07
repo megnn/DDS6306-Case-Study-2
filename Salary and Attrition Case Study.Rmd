@@ -4,6 +4,8 @@ author: "Megan Riley"
 output: html_document
 ---
 
+Video Presentation Available here: https://www.youtube.com/watch?v=2BOSQ9OV5js
+
 #Salary and Attirtion Case Study
 
 The purpose of this document is to build models to predict employee attrition and employee salary for the client Frito Lay. 
