@@ -359,5 +359,7 @@ for(i in seq(1:dim(ensembleDF)[1])){
 
 table(ensembleDF$ensemblePredictions)
 
+write.csv(ensembleDF,"Case2Predictions Riley Attrition.csv")
+write.csv(SalaryPredictions,"Case2Predictions Riley Salary.csv")
 
 ```
